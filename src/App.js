@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <video id="my-video" className="video-js" controls preload="auto" poster="https://images.pexels.com/photos/5702341/pexels-photo-5702341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" data-setup loop>
-        <source src="https://res.cloudinary.com/weknow-creators/video/upload/v1648995594/3b4SgphN-27450849_u00kiw.mp4" type="video/mp4" />
+        <source src="https://nw5.seedr.cc/ff_get/1141640874/Moon.Knight.S01E02.WEBRip.x264-ION10.mp4?st=cBIiopp1MDVShpQ4iPiIFw&e=1649329647" type="video/mp4" />
       </video>
       <Helmet>
       <script
