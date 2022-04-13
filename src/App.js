@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <video id="my-video" className="video-js" controls preload="auto" poster="https://images.pexels.com/photos/5702341/pexels-photo-5702341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" data-setup loop>
-        <source src="https://nl20.seedr.cc/ff_get/1142834148/All.the.Old.Knives.2022.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv?st=3ETTMb1g58txQMQ51AzPVg&e=1649505600" type="video/mp4" />
+        <source src="https://nw9.seedr.cc/ff_get/1145697216/Wyrmwood.Apocalypse.2021.1080p.WEBRip.x264-RARBG.mp4?st=qCLfl7xV2sT9zNDp3ZtKhQ&e=1649944396" type="video/mp4" />
       </video>
       <Helmet>
       <script
