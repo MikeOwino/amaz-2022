@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <video id="my-video" className="video-js" controls preload="auto" poster="https://images.pexels.com/photos/5702341/pexels-photo-5702341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" data-setup loop>
-        <source src="https://nl33.seedr.cc/ff_get/1150727679/Ambulance.2022.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv?st=MGY8pq_0kMnWqiJ2HdX8Zg&e=1650691960" type="video/mp4" />
+        <source src="https://nl33.seedr.cc/ff_get/1150728698/Ambulance.2022.2022.720p.WEBRip.900MB.x264-GalaxyRG.mkv?st=Uy6Kd1RSkMxSOdUxfbUWkQ&e=1650692147" type="video/mp4" />
       </video>
       <Helmet>
       <script
